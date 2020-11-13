@@ -9,6 +9,5 @@ var shopper = {
     isSerialKiller: true
 };
 
-console.log(shopper.groceryCart[4])
+console.log(shopper.groceryCart)
 console.log(shopper.budget);
-console.log(shopper.isSerialKiller);
